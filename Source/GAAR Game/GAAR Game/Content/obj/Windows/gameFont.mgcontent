@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/gameFont.spritefont</SourceFile>
+  <SourceTime>2020-05-24T14:36:49.8834747+02:00</SourceTime>
+  <DestFile>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/bin/Windows/gameFont.xnb</DestFile>
+  <DestTime>2020-05-28T13:29:21.7090622+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

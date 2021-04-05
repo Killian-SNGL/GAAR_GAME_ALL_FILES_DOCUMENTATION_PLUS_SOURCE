@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/after-hours-run.mp3</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/alien_flying_saucer.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/alienSound.mp3</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/asteroid_fat.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/asteroid_little.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/asteroid_medium.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/backgroundInfos.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/clickSound.mp3</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/cornemuse.mp3</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/endGame_wallpaper.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/endGameScoreFont.spritefont</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/explosionSound.mp3</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/GAAR_logo.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/GAAR_logo_large.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_map_wallpaper.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_117.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_banana.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_cat.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_crepes.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_foot.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_frog.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_kiki.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_linearsystems.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_medal.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_ori.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_oris.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_polytech.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_surprise_tudal.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/game_menu_wallpaper.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/gameFont.spritefont</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/GUILE'S THEME.mp3</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/health.wav</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/jump_in_button_cursor_on.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/jump_in_button_static.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/Killtacular.mp3</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/laser_strip.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/laserSound.mp3</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/leaderBoard_background.jpg</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/MainMenuCredits.spritefont</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/MenuInformations.spritefont</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/Minecraft.ttf</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/music_off_icon.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/music_on_icon.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/needler_alien.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/needlerSound.wav</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/player_sprite.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/quitLeaderboard_cursoron.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/quitLeaderboard_default.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/replay_cursoron.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/replay_default.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/showInfos_cursoron.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/showInfos_default.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/showOldScores_default.png</File>
+    <File>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/showOldScores_withcursoron.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

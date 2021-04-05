@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{42D8AF18-564B-452B-810C-800560524C54}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GAAR_Game</RootNamespace>
+    <AssemblyName>GAAR Game</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>game_logo_512.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Alien.cs" />
+    <Compile Include="Asteroid.cs" />
+    <Compile Include="CollisionsCircle.cs" />
+    <Compile Include="EasterEgg.cs" />
+    <Compile Include="EndGame.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="GamePlay.cs" />
+    <Compile Include="LaserStrip.cs" />
+    <Compile Include="MainMenu.cs" />
+    <Compile Include="NeedlerAlien.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scene.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\after-hours-run.mp3" />
+    <Content Include="Content\alienSound.mp3" />
+    <Content Include="Content\alien_flying_saucer.png" />
+    <Content Include="Content\asteroid_fat.png" />
+    <Content Include="Content\asteroid_little.png" />
+    <Content Include="Content\asteroid_medium.png" />
+    <Content Include="Content\backgroundInfos.png" />
+    <Content Include="Content\clickSound.mp3" />
+    <Content Include="Content\cornemuse.mp3" />
+    <Content Include="Content\endGame_wallpaper.png" />
+    <Content Include="Content\explosionSound.mp3" />
+    <Content Include="Content\GAAR_logo.png" />
+    <Content Include="Content\GAAR_logo_large.png" />
+    <Content Include="Content\game_map_wallpaper.png" />
+    <Content Include="Content\game_menu_surprise_117.png" />
+    <Content Include="Content\game_menu_surprise_banana.png" />
+    <Content Include="Content\game_menu_surprise_cat.png" />
+    <Content Include="Content\game_menu_surprise_crepes.png" />
+    <Content Include="Content\game_menu_surprise_foot.png" />
+    <Content Include="Content\game_menu_surprise_frog.png" />
+    <Content Include="Content\game_menu_surprise_kiki.png" />
+    <Content Include="Content\game_menu_surprise_linearsystems.png" />
+    <Content Include="Content\game_menu_surprise_medal.png" />
+    <Content Include="Content\game_menu_surprise_ori.png" />
+    <Content Include="Content\game_menu_surprise_oris.png" />
+    <Content Include="Content\game_menu_surprise_polytech.png" />
+    <Content Include="Content\game_menu_surprise_tudal.png" />
+    <Content Include="Content\game_menu_wallpaper.png" />
+    <Content Include="Content\GUILE%27S THEME.mp3" />
+    <Content Include="Content\health.wav" />
+    <Content Include="Content\jump_in_button_cursor_on.png" />
+    <Content Include="Content\jump_in_button_static.png" />
+    <Content Include="Content\Killtacular.mp3" />
+    <Content Include="Content\laserSound.mp3" />
+    <Content Include="Content\laser_strip.png" />
+    <Content Include="Content\leaderBoard_background.jpg" />
+    <Content Include="Content\music_off_icon.png" />
+    <Content Include="Content\music_on_icon.png" />
+    <Content Include="Content\needlerSound.wav" />
+    <Content Include="Content\needler_alien.png" />
+    <Content Include="Content\player_sprite.png" />
+    <Content Include="Content\quitLeaderboard_cursoron.png" />
+    <Content Include="Content\quitLeaderboard_default.png" />
+    <Content Include="Content\replay_cursoron.png" />
+    <Content Include="Content\replay_default.png" />
+    <Content Include="Content\showInfos_cursoron.png" />
+    <Content Include="Content\showInfos_default.png" />
+    <Content Include="Content\showOldScores_default.png" />
+    <Content Include="Content\showOldScores_withcursoron.png" />
+    <Content Include="game_logo_128.ico" />
+    <Content Include="game_logo_256.ico" />
+    <Content Include="game_logo_512.ico" />
+    <Content Include="game_logo_64.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+    <None Include="app.manifest" />
+    <None Include="Content\endGameScoreFont.spritefont">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Content\gameFont.spritefont">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Content\MainMenuCredits.spritefont" />
+    <None Include="Content\Minecraft.ttf" />
+    <None Include="Content\MenuInformations.spritefont" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

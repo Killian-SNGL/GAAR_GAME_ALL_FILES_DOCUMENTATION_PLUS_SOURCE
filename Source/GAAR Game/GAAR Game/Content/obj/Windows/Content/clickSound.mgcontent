@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/clickSound.mp3</SourceFile>
+  <SourceTime>2020-05-26T15:38:02.0673559+02:00</SourceTime>
+  <DestFile>C:/Users/dachi/OneDrive - etu.univ-orleans.fr/POLYTECH/PeiP 2/S4/PROJET SCIENTIFIQUE/GAAR PROJECT PEIP2 POLYTECH ORLEANS/GAAR Game/GAAR Game/Content/bin/Windows/Content/clickSound.xnb</DestFile>
+  <DestTime>2020-05-26T15:38:03.9682726+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

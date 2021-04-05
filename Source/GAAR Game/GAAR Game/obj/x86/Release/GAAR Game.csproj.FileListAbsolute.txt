@@ -1,0 +1,87 @@
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\alien_flying_saucer.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\asteroid_fat.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\asteroid_little.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\asteroid_medium.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\endGameScoreFont.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\endGame_wallpaper.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\GAAR_logo.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\GAAR_logo_large.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\gameFont.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_map_wallpaper.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_wallpaper.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\GUILE'S THEME.wma
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\GUILE'S THEME.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\jump_in_button_cursor_on.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\jump_in_button_static.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\laser_strip.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\leaderBoard_background.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\Louder - Kid Karate.wma
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\Louder - Kid Karate.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\Minecraft.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\music_off_icon.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\music_on_icon.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\needler_alien.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\player_sprite.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\quitLeaderboard_cursoron.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\quitLeaderboard_default.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\replay_cursoron.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\replay_default.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\showOldScores_default.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\showOldScores_withcursoron.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\test.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\test_DEF.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\test_DEF2.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\GAAR Game.exe
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\GAAR Game.pdb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\obj\x86\Release\GAAR Game.csproj.CoreCompileInputs.cache
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\obj\x86\Release\GAAR Game.csproj.CopyComplete
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\obj\x86\Release\GAAR Game.exe
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\obj\x86\Release\GAAR Game.pdb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\MainMenuCredits.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\obj\x86\Release\GAAR Game.csprojAssemblyReference.cache
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\after-hours-run.wma
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\after-hours-run.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\alienSound.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\backgroundInfos.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\clickSound.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\cornemuse.wma
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\cornemuse.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\explosionSound.wma
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\explosionSound.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_117.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_banana.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_cat.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_crepes.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_foot.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_frog.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_kiki.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_linearsystems.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_medal.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_ori.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_oris.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_polytech.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\game_menu_surprise_tudal.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\health.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\Killtacular.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\laserSound.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\MenuInformations.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\needlerSound.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\showInfos_cursoron.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\showInfos_default.xnb
+C:\Users\dachi\OneDrive - etu.univ-orleans.fr\POLYTECH\PeiP 2\S4\PROJET SCIENTIFIQUE\GAAR PROJECT PEIP2 POLYTECH ORLEANS\GAAR Game\GAAR Game\bin\Windows\x86\Release\Content\SongPlayed.xnb
